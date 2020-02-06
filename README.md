@@ -1,2 +1,2 @@
-# website-analyzer
+# Website-analyzer
 An internship product
